@@ -451,18 +451,11 @@ ninja.data = [{
           window.open("mailto:%6A%6F%6C%61%6B%6F%73%6B%69%70@%6D%61%6E%75.%65%64%75.%6D%6B", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-orcid',
+        title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://orcid.org/0000-0001-7384-8756", "_blank");
         },
       },{
         id: 'social-scholar',
