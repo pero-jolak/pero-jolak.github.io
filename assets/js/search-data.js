@@ -72,7 +72,12 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "news-new-pre-print-response-to-an-external-field-of-a-generalized-langevin-equation-with-stochastic-resetting-of-the-memory-kernel",
+            },{id: "books-the-godfather",
+          title: 'The Godfather',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_godfather/";
+            },},{id: "news-new-pre-print-response-to-an-external-field-of-a-generalized-langevin-equation-with-stochastic-resetting-of-the-memory-kernel",
           title: 'New pre-print Response to an external field of a generalized Langevin equation with...',
           description: "",
           section: "News",},{id: "projects-project-1",
