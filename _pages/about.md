@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student at the Faculty of Computer Science and Engineering, Ss. Cyril and Methodius University - Skopje, Macedonia. My work spans economics, statistical physics, and recently machine learning, and over time I’ve become most interested in physics, especially its connections to machine learning (for example, the development of diffusion models).
+I am a PhD student at the Faculty of Computer Science and Engineering, Ss. Cyril and Methodius University - Skopje, Macedonia. My work spans economics, statistical physics, and recently machine learning, and over time I’ve become most interested in physics and machine learning.
 
 Over the years, I became well aware of two things: 1) I don't know A LOT of stuff I want and must know; 2) I know that I can learning anything (I went from an accounting degree to working on problems in statistical physics).
 
