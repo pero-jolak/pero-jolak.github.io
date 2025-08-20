@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper published in Physical Review E [Response to an external field of a generalized Langevin equation with stochastic resetting of the memory kernel]([https://arxiv.org/pdf/2504.06687](https://journals.aps.org/pre/abstract/10.1103/7q34-r45f))
+New paper published in Physical Review E: [Response to an external field of a generalized Langevin equation with stochastic resetting of the memory kernel](https://journals.aps.org/pre/abstract/10.1103/7q34-r45f)
