@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Here I list the courses I taught.
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 ## Teaching assistant (Oct 2019 - Jan 2021)
