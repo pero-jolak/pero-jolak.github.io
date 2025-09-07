@@ -1,3 +1,13 @@
+---
+layout: page
+title: learning
+permalink: /projects/
+description: Here, I document my learning, with updates added periodically.
+nav: true
+nav_order: 5
+horizontal: false
+---
+
 ## Numerical linear algebra
 
 In this part I implement two iterative methods for solving large, sparse systems of linear equations which are typically encountered in solving engineering problems involving partial differential equations.
@@ -39,3 +49,4 @@ Solving the 1-D Heat equation:
 ## Operator learning
 
 ## Sparse identification of non-linear dynamics (SINDy)
+
