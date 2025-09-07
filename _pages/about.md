@@ -2,16 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +17,29 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student at the Faculty of Computer Science and Engineering, Ss. Cyril and Methodius University - Skopje, Macedonia. My work spans economics, statistical physics, and recently machine learning.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Over the years, I became most interested in physics and became well aware of two things: 1) I don't know A LOT of stuff I want and must know; 2) I know that I can learning anything -- I went from an accounting degree to working on problems in statistical physics with a group at the Macedonian Academy of Sciences and Arts.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+For more information about me, check [my CV](assets/PJ_CV.pdf).
+
+## Main areas of research
+
+Below is a general summary of the work I've done with different collaborators (will update with more details):
+
+- Statistical physics: stochastic processes with memory and resetting, employing renewal theory, first-passage analysis, fractional calculus, subordination, Fokker–Planck and Langevin formalisms, and validation with simulations.
+
+- Economics: analyzing public finance and policy with panel econometrics and causal inference, using system GMM, IV, two-step Heckman, seasonal ARIMA, Bayesian model averaging, and pooled cross-sectional regressions.
+
+- Machine learning: one work focuses on supervised classifiers for prediction and personalization with graph features into an integrated generative-AI pipeline. In another, I started exploring physics-inspired regularization in deep learning analysis of anomalous diffusion.
+
+
+## Collaborators
+
+I collaborated closely with: Ljupco Kocarev, Trifce Sandev, Viktor Stojkoski, Pece Trajanovski, Arnab Pal, Lasko Basnarkov and Dragan Tevdovski.
+I am looking for possible collaborations in groups focusing on physics + AI/ML (SciML, Scientific Machine Learning). I can also contribute to projects related to econophysics.
