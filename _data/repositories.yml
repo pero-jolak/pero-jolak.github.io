@@ -1,8 +1,3 @@
-github_users:
-  - pero-jolak
-
-repo_description_lines_max: 2
-
 github_repos:
   - pero-jolak/generalized-langevin-equation
   - pero-jolak/adaptive-resetting-dl-andi
