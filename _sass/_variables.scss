@@ -1,6 +1,8 @@
 /*******************************************************************************
  * Variables used throughout the theme.
  * To adjust anything, simply edit the variables below and rebuild the theme.
+ * pink #f92080
+ * pink-color-light: #ffdddd
  ******************************************************************************/
 
 @use "sass:color";
@@ -20,8 +22,8 @@ $green-color-light: #ddffdd !default;
 $green-color-bright: #11d68b !default;
 $purple-color: #b509ac !default;
 $light-purple-color: color.adjust($purple-color, $lightness: 25%);
-$pink-color: #f92080 !default;
-$pink-color-light: #ffdddd !default;
+$pink-color: #ff3636 !default;
+$pink-color-light: #ff3636 !default;
 $yellow-color: #efcc00 !default;
 
 $grey-color: #828282 !default;
