@@ -42,4 +42,4 @@ Below is a general summary of the work I've done with different collaborators (w
 ## Collaborators
 
 I collaborated closely with: Ljupco Kocarev, Trifce Sandev, Viktor Stojkoski, Pece Trajanovski, Arnab Pal, Lasko Basnarkov and Dragan Tevdovski.
-I am looking for possible collaborations in groups focusing on physics + AI/ML (SciML, Scientific Machine Learning). I can also contribute to projects related to econophysics.
+I am looking for possible collaborations in groups focusing on AI/ML (SciML, Scientific Machine Learning) with applications in physics and education (Ed Tech).
