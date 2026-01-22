@@ -8,6 +8,11 @@ nav_order: 5
 horizontal: false
 ---
 
+## Mathematical foundations series by Math Academy
+
+Currently on the third course of the foundations series.
+
+
 ## Numerical linear algebra
 
 In this part I implement two iterative methods for solving large, sparse systems of linear equations which are typically encountered in solving engineering problems involving partial differential equations.
