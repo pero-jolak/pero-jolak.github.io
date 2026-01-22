@@ -46,4 +46,5 @@ Solving the 1-D Heat equation:
 ### Currently working on: 
 
 PDEs: Laplace's equation, Poisson's equation, Wave equation.
+
 Sections on: Neural ODEs and SDEs, Operator learning and Sparse identification of non-linear dynamics (SINDy).
