@@ -10,7 +10,7 @@ nav_order: 6
 ## Best books I've read in the past 5 years
 
 - **The Beginning of Infinity** by David Deutsch
-- **Incerto** by Nassim Nicholas Taleb:
+- **Incerto** collection by Nassim Nicholas Taleb:
   - Fooled by Randomness
   - The Black Swan
   - The Bed of Procrustes
