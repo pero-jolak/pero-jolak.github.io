@@ -43,16 +43,7 @@ Solving the 1-D Heat equation:
 - Physics-informed neural network (PINN):
   - [Classic PINN](https://github.com/pero-jolak/studying-scientific-ml/blob/main/Partial%20differential%20equations%20(PDEs)/Heat%20equation/pinn_heat_equation.ipynb) (with residual loss and data loss from BCs and ICs)
 
-### Laplace's equation
+### Currently working on: 
 
-### Poisson's equation
-
-### Wave equation
-
-## Neural ODEs
-
-## Neural SDEs
-
-## Operator learning
-
-## Sparse identification of non-linear dynamics (SINDy)
+PDEs: Laplace's equation, Poisson's equation, Wave equation.
+Sections on: Neural ODEs and SDEs, Operator learning and Sparse identification of non-linear dynamics (SINDy).
