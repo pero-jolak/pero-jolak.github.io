@@ -22,7 +22,7 @@ nav_order: 6
   - The Caves of Steel
   - The Naked Sun
 - **Nonlinear Dynamics and Chaos** by Steven Strogatz
-- **Scale** by Geoffrey West
+- **Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in                Organisms, Cities, Economies, and Companies** by Geoffrey West
 - **The Evolution of Cooperation** by Robert Axelrod 
 
 ## Best short story I've ever read
