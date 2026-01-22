@@ -23,6 +23,7 @@ nav_order: 6
   - The Naked Sun
 - **Nonlinear Dynamics and Chaos** by Steven Strogatz
 - **Scale** by Geoffrey West
+- **The Evolution of Cooperation** by Robert Axelrod 
 
 ## Best short story I've ever read
 
