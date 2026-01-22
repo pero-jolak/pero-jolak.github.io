@@ -26,8 +26,6 @@ I am a PhD student at the Faculty of Computer Science and Engineering, Ss. Cyril
 
 Over the years, I became most interested in physics and became well aware of two things: 1) I don't know A LOT of stuff I want and must know; 2) I know that I can learning anything -- I went from an accounting degree to working on problems in statistical physics with a group at the Macedonian Academy of Sciences and Arts.
 
-For more information about me, check [my CV](assets/PJ_CV.pdf).
-
 ## Main areas of research
 
 Below is a general summary of the work I've done with different collaborators (will update with more details):
