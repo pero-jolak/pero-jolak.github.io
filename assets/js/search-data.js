@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/learning/";
           },
+        },{id: "nav-reading",
+          title: "reading",
+          description: "Books I recommend.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/reading/";
+          },
         },{id: "news-new-paper-published-in-physical-review-e-response-to-an-external-field-of-a-generalized-langevin-equation-with-stochastic-resetting-of-the-memory-kernel",
           title: 'New paper published in Physical Review E: Response to an external field of...',
           description: "",
