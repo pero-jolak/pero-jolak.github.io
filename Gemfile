@@ -23,6 +23,10 @@ group :jekyll_plugins do
     gem 'jemoji'
 
     gem 'classifier-reborn'  # used for content categorization during the build
+
+    gem 'jekyll-3rd-party-libraries'
+    gem 'jekyll-cache-bust'
+    gem 'jekyll-socials'
 end
 
 # Gems for development or external data fetching (outside :jekyll_plugins)
