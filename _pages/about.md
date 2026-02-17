@@ -35,8 +35,3 @@ Below is a general summary of the work I've done with different collaborators (w
 - Economics: analyzing public finance and policy with panel econometrics and causal inference, using system GMM, IV, two-step Heckman, seasonal ARIMA, Bayesian model averaging, and pooled cross-sectional regressions.
 
 - Machine learning: one work focuses on supervised classifiers for prediction and personalization with graph features into an integrated generative-AI pipeline. In another, I started exploring physics-inspired regularization in deep learning analysis of anomalous diffusion.
-
-
-## Collaborators
-
-I collaborated closely with: Ljupco Kocarev, Trifce Sandev, Viktor Stojkoski, Pece Trajanovski, Arnab Pal, Lasko Basnarkov and Dragan Tevdovski.
