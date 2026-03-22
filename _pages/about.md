@@ -32,6 +32,6 @@ Below is a general summary of the work I've done with different collaborators (w
 
 - Statistical physics: stochastic processes with memory and resetting, employing renewal theory, first-passage analysis, fractional calculus, subordination, Fokker–Planck and Langevin formalisms, and validation with simulations.
 
-- Economics: analyzing public finance and policy with panel econometrics and causal inference, using system GMM, IV, two-step Heckman, seasonal ARIMA, Bayesian model averaging, and pooled cross-sectional regressions.
+- Economics: analyzing public finance and policy with panel econometrics and causal inference, using system GMM, IV, two-step Heckman, seasonal ARIMA and Bayesian model averaging.
 
 - Machine learning: one work focuses on supervised classifiers for prediction and personalization with graph features into an integrated generative-AI pipeline. In another, I started exploring physics-inspired regularization in deep learning analysis of anomalous diffusion.
