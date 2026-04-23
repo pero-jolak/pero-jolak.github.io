@@ -47,6 +47,9 @@ ninja.data = [{
         },{id: "news-new-paper-published-in-physical-review-e-response-to-an-external-field-of-a-generalized-langevin-equation-with-stochastic-resetting-of-the-memory-kernel",
           title: 'New paper published in Physical Review E: Response to an external field of...',
           description: "",
+          section: "News",},{id: "news-new-preprint-business-cycle-synchronization-between-the-eu-and-western-balkan-candidate-economies-a-wavelet-analysis",
+          title: 'New preprint: Business cycle synchronization between the EU and Western Balkan candidate economies:...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
