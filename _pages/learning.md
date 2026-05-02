@@ -8,10 +8,9 @@ nav_order: 5
 horizontal: false
 ---
 
-## Mathematical foundations series by [Math Academy](https://www.mathacademy.com)
+## Mathematical foundations
 
-Brushing up my math fundamentals. Currently on the third course of the foundations series which covers advanced calculus techniques for computing limits, derivatives, and integrals, and applying calculus to solve problems in the context of related rates, optimization, particle motion, and differential equations. The course also covers complex numbers, vectors, matrices, parametric and polar curves, probability, and statistics.
-
+Brushing up my math fundamentals on advanced calculus techniques for computing limits, derivatives, and integrals, and applying calculus to solve problems in optimization, particle motion, and differential equations. I also cover complex analysis, vectors, matrices, parametric and polar curves, probability, and statistics.
 
 ## Numerical linear algebra
 
