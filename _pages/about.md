@@ -24,14 +24,14 @@ latest_posts:
 
 I am a PhD candidate at the Faculty of Computer Science and Engineering, Ss. Cyril and Methodius University - Skopje, Macedonia. My work spans economics, statistical physics, and recently machine learning.
 
-Over the years, I became most interested in physics and became well aware of two things: 1) I don't know A LOT of stuff I want and must know; 2) I know that I can learning anything -- I went from an accounting degree to working on problems in statistical physics with a group at the Macedonian Academy of Sciences and Arts.
+Over the years, I developed an interest in physics and mathematics and became well aware of two things: 1) I don't know A LOT of stuff I want and must know; 2) I know that I can learning anything -- I went from an accounting degree to working on problems in statistical physics with a group at the Macedonian Academy of Sciences and Arts.
 
 ## Main areas of research
 
 Below is a general summary of the work I've done with different collaborators (will update with more details):
 
-- Statistical physics: stochastic processes with memory and resetting, employing renewal theory, first-passage analysis, fractional calculus, subordination, Fokker–Planck and Langevin formalisms, and validation with simulations.
+- **Statistical physics**: stochastic processes with memory and resetting, employing renewal theory, first-passage analysis, fractional calculus, subordination, Fokker–Planck and Langevin formalisms, and validation with simulations.
 
-- Economics: analyzing public finance and policy with panel econometrics and causal inference, using system GMM, IV, two-step Heckman, seasonal ARIMA and Bayesian model averaging.
+- **Economics**: analyzing public finance and policy with panel econometrics and causal inference, using system GMM, IV, two-step Heckman, seasonal ARIMA and Bayesian model averaging.
 
-- Machine learning: one work focuses on supervised classifiers for prediction and personalization with graph features into an integrated generative-AI pipeline. In another, I started exploring physics-inspired regularization in deep learning analysis of anomalous diffusion.
+- **Machine learning**: one work focuses on supervised classifiers for prediction and personalization with graph features into an integrated generative-AI pipeline. In another, I started exploring physics-inspired regularization in deep learning analysis of anomalous diffusion.
