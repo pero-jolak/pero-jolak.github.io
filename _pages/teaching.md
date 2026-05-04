@@ -19,5 +19,5 @@ Conducted exercises in introductory classes in Mathematics and Statistics on a w
 ## Full coursework teaching (Oct 2022 - Feb 2025)
 
 - **Linear Algebra** for first-year undergraduate students of computer science: Vectors, Matrices, Systems of linear equations, Vector spaces and subspaces, Orthogonality and projections, Determinants, Eigenvalues and Eigenvectors, Singular Value Decomposition;
-- **Probability and Statistics** for first-year undergraduate students of computer science: Descriptive analysis, Introduction to probability, Random variables and probability distributions, Statistical inference, Statistical hypotheses testing, ANOVA, Chi-square test, Simple and Multiple linear regression and correlation, Logistic regression;
+- **Probability and Statistics** for first-year undergraduate students of computer science: Descriptive analysis, Introduction to probability, Random variables and probability distributions, Statistical inference, Statistical hypotheses testing, ANOVA, Chi-square test, Single and multi-variable linear regression and correlation, Logistic regression;
 - Online free course: **Mathematics with Python** -- from arithmetic to linear algebra and calculus.
