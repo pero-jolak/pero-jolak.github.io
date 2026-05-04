@@ -36,4 +36,4 @@ Below is a general summary of the work I've done with different collaborators (w
 
 - **Machine learning**: one work focuses on supervised classifiers for prediction and personalization with graph features into an integrated generative-AI pipeline. In another, I started exploring physics-inspired regularization in deep learning analysis of anomalous diffusion.
 
-My current interests center on AI and scientific ML, particularly at the intersection of physics-inspired methods and modern deep learning.
+My current interests center on AI and scientific ML.
