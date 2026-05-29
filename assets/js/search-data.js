@@ -50,6 +50,9 @@ ninja.data = [{
           section: "News",},{id: "news-new-preprint-business-cycle-synchronization-between-the-eu-and-western-balkan-candidate-economies-a-wavelet-analysis",
           title: 'New preprint: Business cycle synchronization between the EU and Western Balkan candidate economies:...',
           description: "",
+          section: "News",},{id: "news-new-preprint-ridge-regression-from-poisson-resetting-a-renewal-perspective-on-spectral-regularization",
+          title: 'New preprint: Ridge Regression from Poisson Resetting: A Renewal Perspective on Spectral Regularization...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
