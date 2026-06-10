@@ -53,6 +53,9 @@ ninja.data = [{
           section: "News",},{id: "news-new-preprint-ridge-regression-from-poisson-resetting-a-renewal-perspective-on-spectral-regularization",
           title: 'New preprint: Ridge Regression from Poisson Resetting: A Renewal Perspective on Spectral Regularization...',
           description: "",
+          section: "News",},{id: "news-new-article-the-implicit-regularizing-effect-of-stochastic-resetting-in-deep-learning-analysis-of-anomalous-diffusion",
+          title: 'New article: The implicit regularizing effect of stochastic resetting in deep learning analysis...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
